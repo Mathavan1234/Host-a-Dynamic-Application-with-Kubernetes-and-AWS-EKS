@@ -67,5 +67,5 @@ All resources are replicated across **two Availability Zones** for **high availa
 ## Final Deployment Outcome 🎉
 🚀 The application is now hosted on **AWS EKS** and accessible via the configured **NLB and Route 53 domain**.
  
-📌 Medium: [@mathavanmaddy](https://medium.com/@smaddy799/host-a-dynamic-application-with-kubernetes-and-aws-eks-a94f0dc716e3)
+📌 Medium: [Aricle:](https://medium.com/@smaddy799/host-a-dynamic-application-with-kubernetes-and-aws-eks-a94f0dc716e3)
 
